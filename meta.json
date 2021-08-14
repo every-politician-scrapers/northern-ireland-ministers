@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Northern Ireland",
+      "id": "Q26"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q39053681",
+      "start": "2020-01-11",
+      "parent": "Q2665914"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "http://aims.niassembly.gov.uk/mlas/ministers.aspx",
+        "title": "Executive Ministers",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/northern-ireland-ministers"
 }
