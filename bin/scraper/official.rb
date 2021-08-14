@@ -7,17 +7,33 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(
+        full: noko.css('h4').text.tidy,
+        prefixes: %w[Mr Mrs Miss Ms]
+      ).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      return ministry.sub('Department', 'Minister') if role == 'Minister'
+
+      noko.css('label').text.tidy
+    end
+
+
+    private
+
+    def role
+      noko.css('label').text.tidy
+    end
+
+    def ministry
+      noko.css('p').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.field-item .field-item')
     end
   end
 end
