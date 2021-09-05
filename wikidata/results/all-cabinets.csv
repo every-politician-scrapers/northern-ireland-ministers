@@ -1,0 +1,7 @@
+item,itemLabel,inception,startTime,abolished,endTime,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+Q3062692,1st Executive of Northern Ireland,1998-07-01T00:00:00Z,,2002-10-14T00:00:00Z,,Q2665914,Northern Ireland Executive,,,,,Q3062693,2nd Executive of Northern Ireland,,,,
+Q3062693,2nd Executive of Northern Ireland,2002-10-14T00:00:00Z,,2007-05-08T00:00:00Z,,Q2665914,Northern Ireland Executive,,,Q3062692,1st Executive of Northern Ireland,Q3062695,3rd Executive of Northern Ireland,,,,
+Q3062695,3rd Executive of Northern Ireland,2007-05-08T00:00:00Z,,2011-05-16T00:00:00Z,,Q2665914,Northern Ireland Executive,,,Q3062693,2nd Executive of Northern Ireland,Q3062697,4th Executive of Northern Ireland,,,,
+Q3062697,4th Executive of Northern Ireland,2011-05-16T00:00:00Z,,2016-05-06T00:00:00Z,,Q2665914,Northern Ireland Executive,,,Q3062695,3rd Executive of Northern Ireland,Q24196975,5th Executive of Northern Ireland,,,,
+Q24196975,5th Executive of Northern Ireland,2016-05-26T00:00:00Z,,2017-01-16T00:00:00Z,,Q2665914,Northern Ireland Executive,,,Q3062697,4th Executive of Northern Ireland,Q39053681,6th Executive of Northern Ireland,,,,
+Q39053681,6th Executive of Northern Ireland,2020-01-11T00:00:00Z,,,,Q2665914,Northern Ireland Executive,,,Q24196975,5th Executive of Northern Ireland,,,,,,
