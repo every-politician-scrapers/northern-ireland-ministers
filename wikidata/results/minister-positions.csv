@@ -1,6 +1,7 @@
 item,itemLabel,itemDescription,inception,abolition,partOf,partOfLabel,partStart,partEnd,isa,isaLabel,ministry,ministryLabel
 Q1362221,First Minister and deputy First Minister,Leaders of the Northern Ireland Executive,1998-07-01T00:00:00Z,,,,,,Q14212,prime minister,Q25182600,Executive Office
 Q22979263,First Minister of Northern Ireland,,,,Q2665914,Northern Ireland Executive,,,Q14212,prime minister,,
+Q6313365,Junior Minister,the name given to two positions in the Office of the First Minister and deputy First Minister,,,Q2665914,Northern Ireland Executive,,,Q26204040,deputy minister,,
 Q24321898,Minister for Agriculture and Rural Development,Northern Ireland Executive position,,2016-05-09T00:00:00Z,Q2665914,Northern Ireland Executive,,,Q10540834,agriculture minister,,
 Q22979248,Minister for Employment and Learning,Minister of the Northern Ireland Executive,,2016-05-06T00:00:00Z,Q2665914,Northern Ireland Executive,,,Q12303322,minister of labour,Q3044710,Department for Employment and Learning
 Q23773163,"Minister for Health, Social Services and Public Safety",Northern Ireland Executive position,,2016-05-09T00:00:00Z,Q2665914,Northern Ireland Executive,,,Q3273722,health minister,Q3044738,Department of Health (Northern Ireland)
@@ -11,6 +12,7 @@ Q24321850,Minister for the Economy,Northern Ireland Executive position,2016-05-0
 Q24284762,Minister for the Environment,Northern Ireland Executive position,,,Q2665914,Northern Ireland Executive,,,Q4574084,environment minister,Q3044713,Department of the Environment
 Q24321961,"Minister of Agriculture, Environment and Rural Affairs",Northern Ireland Executive position,2016-05-09T00:00:00Z,,Q2665914,Northern Ireland Executive,,,Q10540834,agriculture minister,,
 Q24321666,Minister of Communities,Northern Ireland Executive position,2016-05-09T00:00:00Z,,Q2665914,Northern Ireland Executive,,,Q83307,minister,Q3044779,Department for Communities
+Q108426723,"Minister of Culture, Arts and Leisure",former Northern Ireland Executive position,1999-12-01T00:00:00Z,2016-05-05T00:00:00Z,Q2665914,Northern Ireland Executive,,,Q2621182,minister of culture,Q3044732,"Department of Culture, Arts and Leisure"
 Q6866109,Minister of Education,in Northern Ireland Executive,,,Q2665914,Northern Ireland Executive,,,Q4018482,education minister,Q3044725,Department of Education
 Q22979268,"Minister of Enterprise, Trade and Investment",Minister of the Northern Ireland Executive,,2016-05-09T00:00:00Z,Q2665914,Northern Ireland Executive,,,Q10535314,enterprise minister,,
 Q22979268,"Minister of Enterprise, Trade and Investment",Minister of the Northern Ireland Executive,,2016-05-09T00:00:00Z,Q2665914,Northern Ireland Executive,,,Q4115952,commerce minister,,
