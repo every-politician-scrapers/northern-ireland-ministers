@@ -1,0 +1,1150 @@
+{
+  "title": "Alex Maskey",
+  "pageID": 1923925,
+  "categories": [
+    "1952 births",
+    "Irish republicans",
+    "Living people",
+    "Lord Mayors of Belfast",
+    "Members of Belfast City Council",
+    "Members of the Northern Ireland Forum",
+    "Northern Ireland MLAs 1998–2003",
+    "Northern Ireland MLAs 2003–2007",
+    "Northern Ireland MLAs 2007–2011",
+    "Northern Ireland MLAs 2011–2016",
+    "Northern Ireland MLAs 2016–2017",
+    "Northern Ireland MLAs 2017–2022",
+    "People educated at St Malachy's College",
+    "Provisional Irish Republican Army members",
+    "Republicans imprisoned during the Northern Ireland conflict",
+    "Sinn Féin MLAs",
+    "Sinn Féin councillors in Northern Ireland",
+    "Sinn Féin parliamentary candidates"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alex Maskey (born 8 January 1952) is a Northern Irish politician who has been Speaker of the Northern Ireland Assembly since 2020 and was the first member of Sinn Féin to serve as Lord Mayor of Belfast from 2002 to 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Northern Ireland Assembly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sinn Féin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lord Mayor of Belfast"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alex Maskey"
+                ]
+              }
+            },
+            {
+              "text": "He was Sinn Féin's longest sitting councillor and is currently an MLA for Belfast West as well as being a former councillor for the Laganbank electoral area of Belfast.",
+              "links": [
+                {
+                  "text": "MLA",
+                  "type": "internal",
+                  "page": "Member of the Legislative Assembly (Northern Ireland)"
+                },
+                {
+                  "text": "Belfast West",
+                  "type": "internal",
+                  "page": "Belfast West (Assembly constituency)"
+                },
+                {
+                  "text": "Laganbank electoral area",
+                  "type": "internal",
+                  "page": "Laganbank (District Electoral Area)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Northern Irish politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "October 2013",
+          "template": "engvarb"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1952",
+          "month": "01",
+          "day": "8",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alex Maskey"
+          },
+          "honorific-suffix": {
+            "text": "MLA",
+            "links": [
+              {
+                "text": "MLA",
+                "type": "internal",
+                "page": "Member of the Legislative Assembly (Northern Ireland)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Alex Maskey.jpg"
+          },
+          "office": {
+            "text": "6th Speaker of the Northern Ireland Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Northern Ireland Assembly",
+                "anchor": "Speakers"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 January 2020"
+          },
+          "predecessor": {
+            "text": "Robin Newton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robin Newton"
+              }
+            ]
+          },
+          "constituency_am2": {
+            "text": "Belfast West",
+            "links": [
+              {
+                "text": "Belfast West",
+                "type": "internal",
+                "page": "Belfast West (Assembly constituency)"
+              }
+            ]
+          },
+          "assembly2": {
+            "text": "Northern Ireland"
+          },
+          "term_start2": {
+            "text": "3 November 2014"
+          },
+          "predecessor2": {
+            "text": "Sue Ramsey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sue Ramsey"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "25 June 1998"
+          },
+          "term_end3": {
+            "text": "26 November 2003"
+          },
+          "predecessor3": {
+            "text": "New Creation",
+            "links": [
+              {
+                "text": "New Creation",
+                "type": "internal",
+                "page": "Belfast Agreement"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "New Creation"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Fra McCann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fra McCann"
+              }
+            ]
+          },
+          "constituency_am4": {
+            "text": "Belfast South",
+            "links": [
+              {
+                "text": "Belfast South",
+                "type": "internal",
+                "page": "Belfast South (Assembly constituency)"
+              }
+            ]
+          },
+          "assembly4": {
+            "text": "Northern Ireland"
+          },
+          "term_start4": {
+            "text": "26 November 2003"
+          },
+          "term_end4": {
+            "text": "22 October 2014"
+          },
+          "predecessor4": {
+            "text": "Monica McWilliams",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monica McWilliams"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Máirtín Ó Muilleoir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Máirtín Ó Muilleoir"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Lord Mayor of Belfast"
+          },
+          "order5": {
+            "text": "47th"
+          },
+          "successor5": {
+            "text": "Martin Morgan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Morgan"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Jim Rodgers",
+            "links": [
+              {
+                "text": "Jim Rodgers",
+                "type": "internal",
+                "page": "Jim Rodgers (politician)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2002",
+            "number": 2002
+          },
+          "term_end5": {
+            "text": "2003",
+            "number": 2003
+          },
+          "birth_date": {
+            "text": "January 8, 1952"
+          },
+          "birth_place": {
+            "text": "Belfast, Northern Ireland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Belfast"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Ireland"
+              }
+            ]
+          },
+          "relations": {
+            "text": "Paul Maskey (brother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Maskey"
+              }
+            ]
+          },
+          "party": {
+            "text": "Speaker",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "Speaker of the Northern Ireland Assembly",
+                "anchor": "Election"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Sinn Féin (before 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sinn Féin"
+              }
+            ]
+          },
+          "website": {
+            "text": "Sinn Féin profile",
+            "links": [
+              {
+                "text": "Sinn Féin profile",
+                "type": "external",
+                "site": "https://web.archive.org/web/20070930020020/http://www.sinnfein.ie/elections/candidate/241"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.belfasttelegraph.co.uk/news/politics/new-sinn-fein-mp-paul-maskey-vows-to-reach-out-to-loyalists-16010615.html",
+          "title": "New Sinn Féin MP Paul Maskey vows to reach out to loyalists",
+          "last": "Young",
+          "first": "Connla",
+          "publisher": "Belfast Telegraph",
+          "date": "11 June 2011",
+          "access-date": "11 June 2011",
+          "archive-url": "https://web.archive.org/web/20110612201355/http://www.belfasttelegraph.co.uk/news/politics/new-sinn-fein-mp-paul-maskey-vows-to-reach-out-to-loyalists-16010615.html",
+          "archive-date": "12 June 2011",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Alex Maskey",
+          "url": "http://www.belfastcity.gov.uk/councillors/councillors.asp?id=23&areaid=5&menuitem=5",
+          "publisher": "Belfast City Council",
+          "access-date": "24 February 2007",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20071023062540/http://www.belfastcity.gov.uk/councillors/councillors.asp?id=23",
+          "archive-date": "23 October 2007",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maskey was educated at St Malachy's College and at the Belfast Institute for Further and Higher Education and then worked in Belfast docks as a labourer and barman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Malachy's College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belfast Institute for Further and Higher Education"
+                }
+              ]
+            },
+            {
+              "text": "He was a successful amateur boxer, having only lost 4 out of 75 fights."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the Troubles began in the late 1960s he became involved with the Provisional Irish Republican Army, and was interned twice in the 1970s.",
+              "links": [
+                {
+                  "text": "the Troubles",
+                  "type": "internal",
+                  "page": "the Troubles"
+                },
+                {
+                  "type": "internal",
+                  "page": "Provisional Irish Republican Army"
+                },
+                {
+                  "text": "interned",
+                  "type": "internal",
+                  "page": "interned"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Biographies of Prominent People",
+          "url": "http://cain.ulst.ac.uk/othelem/people/biography/mpeople.htm#maskey",
+          "publisher": "Conflict Archive on the Internet",
+          "access-date": "23 February 2007",
+          "archive-url": "https://web.archive.org/web/20070205092334/http://cain.ulst.ac.uk/othelem/people/biography/mpeople.htm",
+          "archive-date": "5 February 2007",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "From barman to Belfast's first citizen",
+          "url": "http://news.bbc.co.uk/1/hi/northern_ireland/2027335.stm",
+          "work": "BBC News",
+          "date": "5 June 2002",
+          "access-date": "23 February 2007",
+          "archive-date": "23 July 2004",
+          "archive-url": "https://web.archive.org/web/20040723225609/http://news.bbc.co.uk/1/hi/northern_ireland/2027335.stm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maskey stood unsuccessfully in West Belfast in the 1982 Assembly Election.",
+              "links": [
+                {
+                  "text": "1982 Assembly Election",
+                  "type": "internal",
+                  "page": "1982 Northern Ireland Assembly election"
+                }
+              ]
+            },
+            {
+              "text": "In June 1983, Maskey won a by-election and became the first member of Sinn Féin to be elected to Belfast City Council since the 1920s.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sinn Féin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belfast City Council"
+                }
+              ]
+            },
+            {
+              "text": "He was greeted with boos and jeers when he entered the chamber for his first council meeting, and unionist councillors started stamping their feet and screaming when he attempted to deliver his maiden speech in Irish.",
+              "links": [
+                {
+                  "text": "chamber",
+                  "type": "internal",
+                  "page": "Debate chamber"
+                },
+                {
+                  "text": "unionist",
+                  "type": "internal",
+                  "page": "Unionism in Ireland"
+                },
+                {
+                  "text": "maiden speech",
+                  "type": "internal",
+                  "page": "maiden speech"
+                },
+                {
+                  "text": "Irish",
+                  "type": "internal",
+                  "page": "Irish language"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maskey emerged as a key ally of Sinn Féin President Gerry Adams' approach to the strategy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gerry Adams"
+                }
+              ]
+            },
+            {
+              "text": "In 1987 he survived being shot at close range by loyalist paramilitaries.",
+              "links": [
+                {
+                  "text": "loyalist paramilitaries",
+                  "type": "internal",
+                  "page": "loyalist paramilitaries"
+                }
+              ]
+            },
+            {
+              "text": "He was targeted again by loyalists in 1988, and also a gun attack at his home in 1993 when one his friends, Alan Lundy, was killed."
+            },
+            {
+              "text": "In 1996 Maskey was elected to the Northern Ireland Peace Forum for the Belfast West constituency but did not attend the Forum in accordance with Sinn Féin's policy of abstentionism.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Ireland Peace Forum"
+                },
+                {
+                  "text": "Belfast West constituency",
+                  "type": "internal",
+                  "page": "Belfast West (Assembly constituency)"
+                }
+              ]
+            },
+            {
+              "text": "Two years later he was elected to the Northern Ireland Assembly, which on this occasion Sinn Féin did not boycott.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Ireland Assembly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maskey's growing political profile led him to contest the Belfast South constituency in the 2001 general election as part of Sinn Féin's strategy of building up their vote in one of their weaker constituencies.",
+              "links": [
+                {
+                  "text": "Belfast South constituency",
+                  "type": "internal",
+                  "page": "Belfast South (UK Parliament constituency)"
+                },
+                {
+                  "text": "2001 general election",
+                  "type": "internal",
+                  "page": "2001 United Kingdom general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the local elections held on the same day he switched to the Laganbank area of South Belfast and won a seat there."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2002 Maskey became the first ever republican to serve as Lord Mayor of Belfast.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lord Mayor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belfast"
+                }
+              ]
+            },
+            {
+              "text": "His first duty in office was to open the annual Presbyterian General Assembly despite being a non-Presbyterian.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Presbyterian"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maskey garnered general praise when as part of his duties as Lord Mayor in July 2002 he laid a wreath in memorial of British soldiers who died in the First World War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First World War"
+                }
+              ]
+            },
+            {
+              "text": "However he declined to attend the main memorial ceremony, stating that it was \"the military commemoration of the Battle of the Somme\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Battle of the Somme"
+                }
+              ]
+            },
+            {
+              "text": "In his office he flew the British Union Jack and the Irish tricolour side by side.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Union Jack"
+                },
+                {
+                  "type": "internal",
+                  "page": "Irish tricolour"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2003 Assembly election Maskey stood in South Belfast again and won Sinn Féin's first seat there with a boost in the vote share.",
+              "links": [
+                {
+                  "text": "2003 Assembly election",
+                  "type": "internal",
+                  "page": "2003 Northern Ireland Assembly election"
+                }
+              ]
+            },
+            {
+              "text": "He contested the same-named House of Commons seat in the 2005 general election with the vote share down on the Assembly elections, losing to the Social Democratic and Labour Party candidate, Alasdair McDonnell.",
+              "links": [
+                {
+                  "text": "2005 general election",
+                  "type": "internal",
+                  "page": "2005 United Kingdom general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Social Democratic and Labour Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alasdair McDonnell"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2006, Maskey participated in the negotiations resulting in the Basque nationalist organisation ETA truce announced on 22 March.",
+              "links": [
+                {
+                  "text": "ETA",
+                  "type": "internal",
+                  "page": "ETA (separatist group)"
+                }
+              ]
+            },
+            {
+              "text": "On 23 April 2007, he was announced as one of three Sinn Féin members who would sit on the re-vamped Northern Ireland Policing Board.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Ireland Policing Board"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maskey resigned from Belfast City Council in October 2010, as part of Sinn Féin's policy of abolishing double jobbing.",
+              "links": [
+                {
+                  "text": "double jobbing",
+                  "type": "internal",
+                  "page": "Dual mandate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With the restoration of the Northern Ireland Assembly at Stormont, Maskey was elected Speaker on 11 January 2020."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 23 September 2021, he announced that he would not seek re-election at the 2022 Assembly election.",
+              "links": [
+                {
+                  "text": "2022 Assembly election",
+                  "type": "internal",
+                  "page": "2022 Northern Ireland Assembly election"
+                }
+              ]
+            },
+            {
+              "text": "In a letter to Sinn Féin parties, he said it had been an \"honour\" to represent communities, adding \"There is a lot of work left to do before the next assembly election and that is where my focus will be until then.\""
+            },
+            {
+              "text": "In response, party leader and Deputy First Minister Michelle O'Neill said Maskey had been \"a ferocious champion of the rights of communities within the Assembly, in Belfast City Council and on the ground\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Michelle O'Neill"
+                }
+              ]
+            },
+            {
+              "text": "She added that he \"was imprisoned without trial, faced down sustained threats and attacks by British state forces and their loyalist surrogates and was almost killed in an attack at his home which left him with permanent injuries.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Northern Ireland Assembly Elections 1982",
+          "last": "Whyte",
+          "first": "Nicholas",
+          "url": "http://www.ark.ac.uk/elections/fa82.htm",
+          "publisher": "ARK",
+          "date": "25 March 2003",
+          "access-date": "23 February 2007",
+          "archive-url": "https://web.archive.org/web/20070213021450/http://www.ark.ac.uk/elections/fa82.htm",
+          "archive-date": "13 February 2007",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Maskey elected Lord Mayor of Belfast",
+          "last": "Whyte",
+          "first": "Nicholas",
+          "url": "https://www.irishtimes.com/news/maskey-elected-lord-mayor-of-belfast-1.1059640",
+          "work": "The Irish Times",
+          "date": "6 June 2002",
+          "access-date": "28 May 2020",
+          "archive-date": "12 August 2020",
+          "archive-url": "https://web.archive.org/web/20200812012448/https://www.irishtimes.com/news/maskey-elected-lord-mayor-of-belfast-1.1059640",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "A scrapper in more ways than one who talks the talk of inclusiveness",
+          "url": "https://www.irishtimes.com/news/a-scrapper-in-more-ways-than-one-who-talks-the-talk-of-inclusiveness-1.1059989",
+          "access-date": "2021-09-22",
+          "website": "The Irish Times",
+          "language": "en",
+          "archive-date": "26 September 2021",
+          "archive-url": "https://web.archive.org/web/20210926140015/https://www.irishtimes.com/news/a-scrapper-in-more-ways-than-one-who-talks-the-talk-of-inclusiveness-1.1059989",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2008/oct/26/northernireland-northernireland",
+          "title": "Payout for an attack that never was",
+          "first": "Malachi",
+          "last": "O'Doherty",
+          "date": "25 October 2008",
+          "access-date": "19 August 2017",
+          "work": "The Guardian",
+          "archive-date": "19 August 2017",
+          "archive-url": "https://web.archive.org/web/20170819190333/https://www.theguardian.com/politics/2008/oct/26/northernireland-northernireland",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.independent.co.uk/news/uk/home-news/security-services-tried-to-kill-me-says-belfast-mayor-130649.html",
+          "title": "Security services tried to kill me, says Belfast mayor",
+          "last": "McKittrick",
+          "first": "David",
+          "date": "15 June 2002",
+          "work": "The Independent",
+          "access-date": "19 August 2017",
+          "archive-date": "19 August 2017",
+          "archive-url": "https://web.archive.org/web/20170819190811/http://www.independent.co.uk/news/uk/home-news/security-services-tried-to-kill-me-says-belfast-mayor-130649.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "West Belfast",
+          "author": "Nicholas Whyte",
+          "url": "http://www.ark.ac.uk/elections/awb.htm",
+          "publisher": "ARK",
+          "date": "3 June 1998",
+          "access-date": "24 February 2007",
+          "archive-url": "https://web.archive.org/web/20070404234209/http://www.ark.ac.uk/elections/awb.htm",
+          "archive-date": "4 April 2007",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Alex Maskey",
+          "url": "http://www.sinnfein.ie/elections/candidate/50",
+          "publisher": "Sinn Féin",
+          "access-date": "23 February 2007",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20051104193548/http://sinnfein.ie/elections/candidate/50",
+          "archive-date": "4 November 2005",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Presbyterians welcome Lord Mayor Alex Maskey",
+          "url": "http://news.bbc.co.uk/1/hi/northern_ireland/2037299.stm",
+          "work": "BBC News",
+          "date": "10 June 2002",
+          "access-date": "24 February 2007",
+          "archive-date": "19 August 2017",
+          "archive-url": "https://web.archive.org/web/20170819193556/http://news.bbc.co.uk/1/hi/northern_ireland/2037299.stm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Maskey marks Somme with wreath",
+          "url": "http://news.bbc.co.uk/1/hi/northern_ireland/2076528.stm",
+          "work": "BBC News",
+          "date": "1 July 2002",
+          "access-date": "23 February 2007",
+          "archive-date": "19 June 2004",
+          "archive-url": "https://web.archive.org/web/20040619231256/http://news.bbc.co.uk/1/hi/northern_ireland/2076528.stm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tricolour raised in City Hall",
+          "url": "http://news.bbc.co.uk/1/hi/northern_ireland/2236626.stm",
+          "publisher": "BBC",
+          "date": "4 September 2002",
+          "access-date": "27 July 2012",
+          "archive-date": "11 September 2002",
+          "archive-url": "https://web.archive.org/web/20020911071517/http://news.bbc.co.uk/1/hi/northern_ireland/2236626.stm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sinn Féin 'involved in ETA move'",
+          "url": "http://news.bbc.co.uk/1/hi/northern_ireland/4840514.stm",
+          "work": "BBC News",
+          "date": "24 March 2006",
+          "access-date": "23 February 2007",
+          "archive-date": "19 August 2017",
+          "archive-url": "https://web.archive.org/web/20170819193256/http://news.bbc.co.uk/1/hi/northern_ireland/4840514.stm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/alex-maskey-belfasts-first-republican-mayor-quits-council-seat-28564354.html",
+          "title": "Alex Maskey Belfast's first republican mayor quits council seat",
+          "work": "Belfast Telegraph",
+          "date": "13 October 2010",
+          "access-date": "12 March 2013",
+          "archive-date": "26 September 2021",
+          "archive-url": "https://web.archive.org/web/20210926140019/https://www.belfasttelegraph.co.uk/news/northern-ireland/article28564354.ece",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "McDonald",
+          "first1": "Henry",
+          "title": "Northern Ireland assembly reopens three years after collapse",
+          "url": "https://www.theguardian.com/politics/2020/jan/11/northern-ireland-assembly-reopens-three-years-after-collapse",
+          "website": "The Guardian",
+          "access-date": "13 January 2020",
+          "date": "11 January 2020",
+          "archive-date": "12 January 2020",
+          "archive-url": "https://web.archive.org/web/20200112153356/https://www.theguardian.com/politics/2020/jan/11/northern-ireland-assembly-reopens-three-years-after-collapse",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2 August 2021",
+          "title": "Sinn Féin's Alex Maskey will not stand in next NI Assembly election",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-northern-ireland-58100954",
+          "last": "McCormack",
+          "first": "Jayne",
+          "access-date": "22 September 2021",
+          "archive-date": "15 August 2021",
+          "archive-url": "https://web.archive.org/web/20210815230344/https://www.bbc.com/news/uk-northern-ireland-58100954",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Moriarty",
+          "first": "Gerry",
+          "title": "Sinn Féin's Alex Maskey to stand down as Assembly member next year",
+          "url": "https://www.irishtimes.com/news/ireland/irish-news/sinn-f%C3%A9in-s-alex-maskey-to-stand-down-as-assembly-member-next-year-1.4639699",
+          "date": "5 August 2021",
+          "access-date": "22 September 2021",
+          "website": "The Irish Times",
+          "language": "en",
+          "archive-date": "5 August 2021",
+          "archive-url": "https://web.archive.org/web/20210805121725/https://www.irishtimes.com/news/ireland/irish-news/sinn-f%C3%A9in-s-alex-maskey-to-stand-down-as-assembly-member-next-year-1.4639699",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "White",
+          "first": "Robert",
+          "title": "Out of the Ashes: An Oral History of the Provisional Irish Republican Movement",
+          "publisher": "Merrion Press",
+          "year": "2017",
+          "pages": "201–202",
+          "isbn": "9781785370939",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "South Belfast",
+          "author": "Nicholas Whyte",
+          "url": "http://www.ark.ac.uk/elections/asb.htm",
+          "publisher": "ARK",
+          "date": "3 June 1998",
+          "access-date": "24 February 2007",
+          "archive-url": "https://web.archive.org/web/20070404230352/http://www.ark.ac.uk/elections/asb.htm",
+          "archive-date": "4 April 2007",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "August 2017",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maskey and his wife, Liz McKee have been married since 1981."
+            },
+            {
+              "text": "They have two sons, Niall and Sean, and a granddaughter, Tierna."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 25 December 2005, Maskey suffered a heart attack while with his family."
+            },
+            {
+              "text": "Several weeks later he appeared on BBC Radio Ulster to talk about his health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "BBC Radio Ulster"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "3 January 2007",
+          "title": "Alex Maskey and the UDA assassin",
+          "url": "https://magill.ie/archive/alex-maskey-and-uda-assassin",
+          "access-date": "22 September 2021",
+          "website": "magill.ie",
+          "archive-date": "26 September 2021",
+          "archive-url": "https://web.archive.org/web/20210926140006/https://magill.ie/archive/alex-maskey-and-uda-assassin",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.belfasttelegraph.co.uk/imported/maskeys-marathon-28170860.html",
+          "title": "Maskey's marathon",
+          "last": "McCreary",
+          "first": "Alf",
+          "date": "4 July 2008",
+          "work": "Belfast Telegraph",
+          "access-date": "22 September 2021",
+          "issn": "0307-1235",
+          "archive-date": "26 September 2021",
+          "archive-url": "https://web.archive.org/web/20210926135948/https://www.belfasttelegraph.co.uk/imported/maskeys-marathon-28170860.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.belfasttelegraph.co.uk/life/features/who-is-giving-up-what-for-lent-30063967.html",
+          "title": "Who is giving up what for Lent?",
+          "date": "5 March 2014",
+          "work": "Belfast Telegraph",
+          "access-date": "22 September 2021",
+          "issn": "0307-1235",
+          "archive-date": "1 December 2020",
+          "archive-url": "https://web.archive.org/web/20201201213338/https://www.belfasttelegraph.co.uk/life/features/who-is-giving-up-what-for-lent-30063967.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ex Belfast mayor discharged after heart attack",
+          "url": "http://archives.tcm.ie/breakingnews/2005/12/30/story237282.asp",
+          "publisher": "TCM Archives",
+          "date": "30 December 2005",
+          "access-date": "23 February 2007",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20070929083108/http://archives.tcm.ie/breakingnews/2005/12/30/story237282.asp",
+          "archive-date": "29 September 2007",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "title": "Lord Mayor of Belfast",
+          "before": "Jim Rodgers",
+          "after": "Martin Morgan",
+          "years": "2002–03",
+          "template": "succession box"
+        },
+        {
+          "list": [
+            "ni/for"
+          ],
+          "template": "s-par"
+        },
+        {
+          "list": [
+            "Forum"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member for West Belfast",
+          "years": "1996–1998",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Forum dissolved",
+          "template": "s-non"
+        },
+        {
+          "list": [
+            "ni/ass"
+          ],
+          "template": "s-par"
+        },
+        {
+          "list": [
+            "assembly"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "MLA for Belfast West",
+          "years": "1998–2003",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Fra McCann",
+          "template": "s-aft"
+        },
+        {
+          "title": "MLA for Belfast South",
+          "before": "Monica McWilliams",
+          "after": "Máirtín Ó Muilleoir",
+          "years": "2003–2014",
+          "template": "succession box"
+        },
+        {
+          "before": "Sue Ramsey",
+          "template": "s-bef"
+        },
+        {
+          "title": "MLA for Belfast West",
+          "years": "2014–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "sinn féin"
+        },
+        {
+          "template": "pira"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Profile on Sinn Féin website",
+            "links": [
+              {
+                "text": "Profile on Sinn Féin website",
+                "type": "external",
+                "site": "http://www.sinnfein.ie/contents/14957/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
