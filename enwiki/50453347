@@ -274,45 +274,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "list": [
-            "ni/ass"
-          ],
-          "template": "s-par"
-        },
-        {
-          "before": "Mitchel McLaughlin",
-          "template": "s-bef"
-        },
-        {
-          "title": "MLA for South Antrim",
-          "years": "2016–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "sinn féin"
-        },
-        {
-          "template": "ofmdfmni"
-        },
-        {
-          "template": "northern ireland executive"
-        }
-      ]
     }
   ]
 }

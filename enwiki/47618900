@@ -461,45 +461,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "list": [
-            "ni/ass"
-          ],
-          "template": "s-par"
-        },
-        {
-          "before": "Sammy Wilson",
-          "template": "s-bef"
-        },
-        {
-          "title": "MLA for East Antrim",
-          "years": "2015–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "democratic unionist party"
-        },
-        {
-          "template": "ofmdfmni"
-        },
-        {
-          "template": "northern ireland executive"
-        }
-      ]
     }
   ]
 }
