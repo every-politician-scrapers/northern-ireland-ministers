@@ -30,6 +30,11 @@
               "text": "Michelle O'Neill (née Doris; born 10 January 1977) is an Irish politician who has served as deputy First Minister of Northern Ireland since 2020.",
               "links": [
                 {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "née"
+                },
+                {
                   "text": "deputy First Minister of Northern Ireland",
                   "type": "internal",
                   "page": "First Minister and deputy First Minister of Northern Ireland"
@@ -39,9 +44,6 @@
                 "bold": [
                   "Michelle O'Neill",
                   "Doris"
-                ],
-                "italic": [
-                  "née"
                 ]
               }
             },
