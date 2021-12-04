@@ -17,8 +17,12 @@
         {
           "sentences": [
             {
-              "text": "Dame Brenda Mary Sullivan (née King; born Belfast, 13 June 1964) is the Attorney General for Northern Ireland.",
+              "text": "Dame Brenda Mary King, Mrs Sullivan (born 13 June 1964, Belfast) is the Attorney General for Northern Ireland.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Belfast"
+                },
                 {
                   "type": "internal",
                   "page": "Attorney General for Northern Ireland"
@@ -26,8 +30,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dame Brenda Mary Sullivan",
-                  "King"
+                  "Dame Brenda Mary King, Mrs Sullivan"
                 ]
               }
             },
@@ -156,8 +159,11 @@
           "spouse": {
             "text": "James Sullivan"
           },
+          "birth_name": {
+            "text": "Brenda Mary King"
+          },
           "profession": {
-            "text": "Solicitor, Parliamentary Counsel, diplomat",
+            "text": "Solicitor \nParliamentary Counsel Diplomat",
             "links": [
               {
                 "type": "internal",
