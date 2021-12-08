@@ -356,16 +356,6 @@
                 "page": "Open University"
               }
             ]
-          },
-          "website": {
-            "text": "Robin Swann official website",
-            "links": [
-              {
-                "text": "Robin Swann official website",
-                "type": "external",
-                "site": "http://www.robinswannmla.com/"
-              }
-            ]
           }
         }
       ],
