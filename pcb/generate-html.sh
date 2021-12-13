@@ -4,6 +4,7 @@ TMPFILE=$(mktemp)
 HOLDERS=$(mktemp)
 RAWBIOS=$(mktemp)
 BIO_CSV=$(mktemp)
+ENUM_PS=$(mktemp)
 
 PERSON_PROPS="en,P31,P18,P21,P27,P1559,P1477,P2561,P735,P734,P1950,P5056,P2652,P569,P19,P570,P22,P25,P26,P40,P3373,P39,P69,P511,P102,P3602,sitelinks"
 
@@ -38,10 +39,14 @@ jq -r '[
 # TODO: other positions
 # TODO: relations
 
-# Generate holders21.csv
-qsv join position wikidata/wanted-positions.csv position $HOLDERS |
-  qsv select position,title,person,start,end > $TMPFILE
+# Generate holders21.csv, keeping position order from wanted-positions
+qsv enum wikidata/wanted-positions.csv > $ENUM_PS
+qsv join position $ENUM_PS position $HOLDERS |
+  qsv select index,position,title,person,start,end > $TMPFILE
 qsv join person $TMPFILE id $BIO_CSV |
+  qsv sort -s person |
+  qsv sort -s start |
+  qsv sort -N -s index |
   qsv select title,name,person,start,end,gender,dob,dod,image,enwiki |
   qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki > html/holders21.csv
 
