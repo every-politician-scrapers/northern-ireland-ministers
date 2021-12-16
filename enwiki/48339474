@@ -19,14 +19,14 @@
         {
           "sentences": [
             {
-              "text": "Dame Siobhan Roisin Keegan,, is a Northern Irish judge who has been Chief Justice of Northern Ireland since September 2021.",
+              "text": "Dame Siobhan Roisin Keegan,, is a Northern Irish judge who has been Lady Chief Justice of Northern Ireland since September 2021.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Northern Irish"
                 },
                 {
-                  "text": "Chief Justice of Northern Ireland",
+                  "text": "Lady Chief Justice of Northern Ireland",
                   "type": "internal",
                   "page": "Lord Chief Justice of Northern Ireland"
                 }
@@ -38,7 +38,7 @@
               }
             },
             {
-              "text": "She was a judge of the High Court of Northern Ireland from October 2015 until her appointment as Chief Justice, prior to which, she practised as a barrister specialising in family law.",
+              "text": "She was formerly a judge of the High Court of Northern Ireland from October 2015 until her appointment as Lady Chief Justice, prior to which, she practised as a barrister specialising in family law.",
               "links": [
                 {
                   "type": "internal",
@@ -95,7 +95,7 @@
             ]
           },
           "name": {
-            "text": "Mrs Justice Keegan"
+            "text": "Dame Siobhan Keegan"
           },
           "office": {
             "text": "Lady Chief Justice of Northern Ireland",
