@@ -67,8 +67,8 @@
         {
           "country": "GBR",
           "list": [
-            "QC",
-            "DBE"
+            "DBE",
+            "QC"
           ],
           "size": "100%",
           "template": "post-nominals"
