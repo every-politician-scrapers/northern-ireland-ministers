@@ -210,18 +210,6 @@
               }
             ]
           },
-          "1blankname1": {
-            "text": "First Minister"
-          },
-          "1namedata1": {
-            "text": "Arlene Foster",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arlene Foster"
-              }
-            ]
-          },
           "predecessor1": {
             "text": "The Lord Morrow",
             "links": [
@@ -248,10 +236,10 @@
             "text": "26 January 2017"
           },
           "office2": {
-            "text": "Member of the Northern Ireland Assembly\nfor Lagan Valley",
+            "text": "Member of the Legislative Assembly\nfor Lagan Valley",
             "links": [
               {
-                "text": "Member of the Northern Ireland Assembly",
+                "text": "Member of the Legislative Assembly",
                 "type": "internal",
                 "page": "Member of the Legislative Assembly (Northern Ireland)"
               },
