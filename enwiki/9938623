@@ -474,62 +474,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.sinnfein.ie/contents/43167",
-          "title": "New northern Sinn Féin leader tells both governments to step up to the plate",
-          "date": "23 January 2017",
-          "access-date": "24 January 2017",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20170126115447/http://www.sinnfein.ie/contents/43167",
-          "archive-date": "26 January 2017",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.niassembly.gov.uk/",
-          "title": "The Northern Ireland Assembly",
-          "access-date": "2017-03-29",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20170502054602/http://www.niassembly.gov.uk/",
-          "archive-date": "2 May 2017",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.sinnfein.ie/contents/43161",
-          "title": "We stand for equality, respect and integrity – O'Neill",
-          "website": "www.sinnfein.ie",
-          "access-date": "2017-01-23",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20170129105157/http://www.sinnfein.ie/contents/43161",
-          "archive-date": "29 January 2017",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.irishtimes.com/news/politics/michelle-o-neill-takes-over-as-new-sinn-f%C3%A9in-leader-in-north-1.2947808",
-          "title": "Michelle O'Neill takes over as new Sinn Féin leader in North",
-          "newspaper": "The Irish Times",
-          "language": "en-US",
-          "access-date": "2017-01-23",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20170222124408/http://www.irishtimes.com/news/politics/michelle-o-neill-takes-over-as-new-sinn-f%C3%A9in-leader-in-north-1.2947808",
-          "archive-date": "22 February 2017",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -538,32 +538,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Key dates ahead",
-          "url": "http://www.europarl.europa.eu/news/en/press-room/elections-press-kit/0/key-dates-ahead",
-          "publisher": "European Parliament",
-          "access-date": "28 May 2019",
-          "date": "20 May 2017",
-          "archive-url": "https://web.archive.org/web/20190525003255/http://www.europarl.europa.eu/news/en/press-room/elections-press-kit/0/key-dates-ahead",
-          "archive-date": "25 May 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Key dates ahead",
-          "url": "https://www.bbc.co.uk/news/uk-48365702",
-          "publisher": "BBC News",
-          "access-date": "28 May 2019",
-          "date": "22 May 2017",
-          "archive-url": "https://web.archive.org/web/20190526130408/https://www.bbc.co.uk/news/uk-48365702",
-          "archive-date": "26 May 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

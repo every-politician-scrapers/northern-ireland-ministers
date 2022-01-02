@@ -316,33 +316,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.belfasttelegraph.co.uk/news/politics/new-sinn-fein-mp-paul-maskey-vows-to-reach-out-to-loyalists-16010615.html",
-          "title": "New Sinn Féin MP Paul Maskey vows to reach out to loyalists",
-          "last": "Young",
-          "first": "Connla",
-          "publisher": "Belfast Telegraph",
-          "date": "11 June 2011",
-          "access-date": "11 June 2011",
-          "archive-url": "https://web.archive.org/web/20110612201355/http://www.belfasttelegraph.co.uk/news/politics/new-sinn-fein-mp-paul-maskey-vows-to-reach-out-to-loyalists-16010615.html",
-          "archive-date": "12 June 2011",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Alex Maskey",
-          "url": "http://www.belfastcity.gov.uk/councillors/councillors.asp?id=23&areaid=5&menuitem=5",
-          "publisher": "Belfast City Council",
-          "access-date": "24 February 2007",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20071023062540/http://www.belfastcity.gov.uk/councillors/councillors.asp?id=23",
-          "archive-date": "23 October 2007",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

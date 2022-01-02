@@ -349,50 +349,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Carrol",
-          "first": "Rory",
-          "date": "17 June 2021",
-          "title": "Northern Ireland: Paul Givan becomes first minister after Irish language deal",
-          "url": "https://www.theguardian.com/uk-news/2021/jun/17/sinn-fein-designates-deputy-first-minister-to-avert-stormont-crisis",
-          "work": "The Guardian",
-          "access-date": "18 June 2021",
-          "archive-date": "17 June 2021",
-          "archive-url": "https://web.archive.org/web/20210617195457/https://www.theguardian.com/uk-news/2021/jun/17/sinn-fein-designates-deputy-first-minister-to-avert-stormont-crisis",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.rte.ie/news/2021/0617/1228654-northern-ireland-latest/",
-          "title": "Givan, O'Neill installed as NI First and Deputy First Ministers",
-          "publisher": "RTÉ News and Current Affairs",
-          "first": "Vincent",
-          "last": "Kearney",
-          "date": "17 June 2021",
-          "accessdate": "17 June 2021",
-          "archive-date": "17 June 2021",
-          "archive-url": "https://web.archive.org/web/20210617144839/https://www.rte.ie/news/2021/0617/1228654-northern-ireland-latest/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Gordon",
-          "first": "Gareth",
-          "date": "8 June 2021",
-          "title": "Paul Givan: How will the new first minister handle the top job?",
-          "url": "https://www.bbc.co.uk/news/uk-northern-ireland-politics-57401974",
-          "work": "BBC News",
-          "access-date": "9 June 2021",
-          "archive-date": "8 June 2021",
-          "archive-url": "https://web.archive.org/web/20210608230614/https://www.bbc.co.uk/news/uk-northern-ireland-politics-57401974",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
