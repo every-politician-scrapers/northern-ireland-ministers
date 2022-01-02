@@ -245,34 +245,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.belfasttelegraph.co.uk/opinion/news-analysis/anatomy-of-murder-28607642.html",
-          "title": "Anatomy of murder",
-          "newspaper": "Belfasttelegraph",
-          "access-date": "3 June 2017",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
