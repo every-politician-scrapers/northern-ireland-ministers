@@ -304,15 +304,11 @@
             "text": "October 12, 1981"
           },
           "birth_place": {
-            "text": "Lisburn, County Antrim, Northern Ireland",
+            "text": "Lisburn, Northern Ireland",
             "links": [
               {
                 "type": "internal",
                 "page": "Lisburn"
-              },
-              {
-                "type": "internal",
-                "page": "County Antrim"
               },
               {
                 "type": "internal",
@@ -340,7 +336,7 @@
             ]
           },
           "party": {
-            "text": "Democratic Unionist Party (DUP)",
+            "text": "Democratic Unionist Party",
             "links": [
               {
                 "type": "internal",
