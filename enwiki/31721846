@@ -196,6 +196,15 @@
               }
             ]
           },
+          "deputy1": {
+            "text": "Steve Aiken",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steve Aiken"
+              }
+            ]
+          },
           "term_start1": {
             "text": "8 April 2017"
           },
