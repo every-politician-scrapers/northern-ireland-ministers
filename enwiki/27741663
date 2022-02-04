@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Paul Jonathan Givan (born 12 October 1981) is a Democratic Unionist Party (DUP) politician from Northern Ireland who has served as First Minister of Northern Ireland since 17 June 2021.",
+              "text": "Paul Jonathan Givan (born 12 October 1981) is a Democratic Unionist Party (DUP) politician from Northern Ireland who served as First Minister of Northern Ireland from June 2021 to February 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -100,7 +100,7 @@
               ]
             },
             {
-              "text": "Appointed at age 39, Givan is the youngest First Minister in Northern Ireland's history."
+              "text": "Appointed at age 39, Givan was the youngest First Minister in Northern Ireland's history."
             }
           ]
         },
@@ -130,7 +130,7 @@
           "template": "distinguish"
         },
         {
-          "description": "First Minister of Northern Ireland",
+          "description": "Former First Minister of Northern Ireland",
           "template": "short description"
         },
         {
@@ -199,6 +199,9 @@
           },
           "term_start": {
             "text": "17 June 2021"
+          },
+          "term_end": {
+            "text": "4 February 2022"
           },
           "office1": {
             "text": "Minister for Communities",
