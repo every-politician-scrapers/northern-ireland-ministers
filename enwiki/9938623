@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Michelle O'Neill (née Doris; born 10 January 1977) is an Irish politician who has served as deputy First Minister of Northern Ireland since 2020.",
+              "text": "Michelle O'Neill (née Doris; born 10 January 1977) is an Irish politician who served as deputy First Minister of Northern Ireland from 2020 to 2022.",
               "links": [
                 {
                   "text": "née",
@@ -156,11 +156,29 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The resignation of Paul Givan as First Minister of Northern Ireland on 3 February 2022 automatically removed O'Neill from office as deputy First Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul Givan"
+                },
+                {
+                  "text": "First Minister of Northern Ireland",
+                  "type": "internal",
+                  "page": "First Minister and deputy First Minister of Northern Ireland"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
         {
-          "description": "Deputy First Minister of Northern Ireland, Vice President of Sinn Féin",
+          "description": "Vice President of Sinn Féin",
           "template": "short description"
         },
         {
@@ -170,13 +188,6 @@
         {
           "date": "March 2017",
           "template": "use hiberno-english"
-        },
-        {
-          "list": [
-            "ch",
-            "a"
-          ],
-          "template": "ref label"
         },
         {
           "year": "1977",
@@ -254,6 +265,9 @@
           "term_start": {
             "text": "11 January 2020"
           },
+          "term_end": {
+            "text": "4 February 2022"
+          },
           "predecessor": {
             "text": "Martin McGuinness",
             "links": [
@@ -262,6 +276,9 @@
                 "page": "Martin McGuinness"
               }
             ]
+          },
+          "successor": {
+            "text": "TBA"
           },
           "office3": {
             "text": "Vice President of Sinn Féin",
