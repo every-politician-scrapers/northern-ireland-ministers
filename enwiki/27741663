@@ -188,6 +188,14 @@
               }
             ]
           },
+          "successor": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
+          },
           "alongside": {
             "text": "Michelle O'Neill",
             "links": [

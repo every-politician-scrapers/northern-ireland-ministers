@@ -190,6 +190,13 @@
           "template": "use hiberno-english"
         },
         {
+          "list": [
+            "ch",
+            "a"
+          ],
+          "template": "ref label"
+        },
+        {
           "year": "1977",
           "month": "1",
           "day": "10",
@@ -278,7 +285,12 @@
             ]
           },
           "successor": {
-            "text": "TBA"
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
           },
           "office3": {
             "text": "Vice President of Sinn Féin",
