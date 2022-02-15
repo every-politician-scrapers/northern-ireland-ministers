@@ -460,16 +460,6 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Irish",
-            "links": [
-              {
-                "text": "Irish",
-                "type": "internal",
-                "page": "Irish people"
-              }
-            ]
-          },
           "party": {
             "text": "Sinn Féin",
             "links": [
