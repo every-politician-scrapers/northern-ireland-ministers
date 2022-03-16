@@ -1,56 +1,56 @@
 id,name,relationship,relative,relativename
-Q107345490,Stephen Dunne,father,Q5585084,Gordon Dunne
-Q116719,Diane Dodds,spouse,Q300243,Nigel Dodds
-Q16105286,P. J. Bradley,child,Q24083702,Sinéad Bradley
-Q16114174,Francie Brolly,child,Q6208799,Joe Brolly
-Q16114174,Francie Brolly,spouse,Q4768185,Anne Brolly
-Q192556,David Trimble,father,Q75532217,William Trimble
-Q192556,David Trimble,mother,Q75532220,Ivy Trimble
-Q192556,David Trimble,spouse,Q75532218,Daphne Orr
-Q194713,"Patricia Scotland, Baroness Scotland of Asthal",spouse,Q76329787,Richard Mawhinney
-Q24052780,Paula Bradshaw,spouse,Q5982550,Ian Parsley
-Q24083702,Sinéad Bradley,father,Q16105286,P. J. Bradley
-Q296597,Ian Paisley,child,Q575881,Ian Paisley Jr
-Q296597,Ian Paisley,child,Q75969933,James Cassells Kyle Paisley
-Q296597,Ian Paisley,child,Q75969938,Sharon Kyle Paisley
-Q296597,Ian Paisley,child,Q75969941,Rhonda Elaine Kyle Paisley
-Q296597,Ian Paisley,child,Q75969943,Cherith Jane Kyle Paisley
-Q296597,Ian Paisley,father,Q75969926,J. Kyle Paisley
-Q296597,Ian Paisley,mother,Q75969929,Isabella Turnbull
-Q296597,Ian Paisley,spouse,Q1303976,"Eileen Paisley, Baroness Paisley of St George's"
-Q300243,Nigel Dodds,spouse,Q116719,Diane Dodds
-Q31373965,Colm Gildernew,sibling,Q337970,Michelle Gildernew
-Q332994,Dominic Grieve,father,Q7167373,Percy Grieve
-Q333036,Peter Robinson,spouse,Q333235,Iris Robinson
-Q333235,Iris Robinson,spouse,Q333036,Peter Robinson
-Q333991,"John Taylor, Baron Kilclooney",child,Q76142244,Jonathan Taylor
-Q333991,"John Taylor, Baron Kilclooney",child,Q76185569,Jane Taylor
-Q333991,"John Taylor, Baron Kilclooney",child,Q76185573,Rachel Taylor
-Q333991,"John Taylor, Baron Kilclooney",child,Q76185619,Rowena Taylor
-Q333991,"John Taylor, Baron Kilclooney",child,Q76185623,Alex Taylor
-Q333991,"John Taylor, Baron Kilclooney",child,Q76185626,Hannah Nadia Victoria Taylor
-Q333991,"John Taylor, Baron Kilclooney",father,Q76185620,George David Taylor
-Q333991,"John Taylor, Baron Kilclooney",mother,Q76185570,Georgina Baird
-Q333991,"John Taylor, Baron Kilclooney",spouse,Q76185640,Mary Frances Todd
-Q336390,"John Alderdice, Baron Alderdice",child,Q75407492,Stephen David Alderdice
-Q336390,"John Alderdice, Baron Alderdice",child,Q75407493,Peter James Alderdice
-Q336390,"John Alderdice, Baron Alderdice",child,Q75407495,Joanna Margaret Anna Alderdice
-Q336390,"John Alderdice, Baron Alderdice",father,Q75294044,David Alderdice
-Q336390,"John Alderdice, Baron Alderdice",mother,Q75294051,Annie Margaret Helena Shields
-Q336390,"John Alderdice, Baron Alderdice",spouse,Q75294037,Joan Margaret Hill
-Q337970,Michelle Gildernew,sibling,Q31373965,Colm Gildernew
-Q428996,Pat Sheehan,spouse,Q7525311,Siobhán O'Hanlon
-Q5220520,Danny Kinahan,child,Q76245321,Eliza Kinahan
-Q5220520,Danny Kinahan,child,Q76308421,Tara Kinahan
-Q5220520,Danny Kinahan,child,Q76308423,Hugo Kinahan
-Q5220520,Danny Kinahan,child,Q76308424,Mia Kinahan
-Q5220520,Danny Kinahan,father,Q7352592,Robin Kinahan
-Q5220520,Danny Kinahan,mother,Q19956627,Coralie de Burgh
-Q5220520,Danny Kinahan,spouse,Q76008194,Anna Marguerite Bence-Trower
-Q5346750,Edwin Poots,father,Q5081712,Charles Poots
-Q5585084,Gordon Dunne,child,Q107345490,Stephen Dunne
-Q575881,Ian Paisley Jr,father,Q296597,Ian Paisley
-Q575881,Ian Paisley Jr,mother,Q1303976,"Eileen Paisley, Baroness Paisley of St George's"
-Q575881,Ian Paisley Jr,spouse,Q75969932,Fiona Margaret Currie
-Q6210280,Joe Hendron,sibling,Q6195541,Jim Hendron
-Q6848174,Mike Nesbitt,spouse,Q6708535,Lynda Bryans
+Q107345490,Stephen Dunne,father,Q5585084,
+Q116719,Diane Dodds,spouse,Q300243,
+Q16105286,P. J. Bradley,child,Q24083702,
+Q16114174,Francie Brolly,child,Q6208799,
+Q16114174,Francie Brolly,spouse,Q4768185,
+Q192556,David Trimble,father,Q75532217,
+Q192556,David Trimble,mother,Q75532220,
+Q192556,David Trimble,spouse,Q75532218,
+Q194713,"Patricia Scotland, Baroness Scotland of Asthal",spouse,Q76329787,
+Q24052780,Paula Bradshaw,spouse,Q5982550,
+Q24083702,Sinéad Bradley,father,Q16105286,
+Q296597,Ian Paisley,child,Q575881,
+Q296597,Ian Paisley,child,Q75969933,
+Q296597,Ian Paisley,child,Q75969938,
+Q296597,Ian Paisley,child,Q75969941,
+Q296597,Ian Paisley,child,Q75969943,
+Q296597,Ian Paisley,father,Q75969926,
+Q296597,Ian Paisley,mother,Q75969929,
+Q296597,Ian Paisley,spouse,Q1303976,
+Q300243,Nigel Dodds,spouse,Q116719,
+Q31373965,Colm Gildernew,sibling,Q337970,
+Q332994,Dominic Grieve,father,Q7167373,
+Q333036,Peter Robinson,spouse,Q333235,
+Q333235,Iris Robinson,spouse,Q333036,
+Q333991,"John Taylor, Baron Kilclooney",child,Q76142244,
+Q333991,"John Taylor, Baron Kilclooney",child,Q76185569,
+Q333991,"John Taylor, Baron Kilclooney",child,Q76185573,
+Q333991,"John Taylor, Baron Kilclooney",child,Q76185619,
+Q333991,"John Taylor, Baron Kilclooney",child,Q76185623,
+Q333991,"John Taylor, Baron Kilclooney",child,Q76185626,
+Q333991,"John Taylor, Baron Kilclooney",father,Q76185620,
+Q333991,"John Taylor, Baron Kilclooney",mother,Q76185570,
+Q333991,"John Taylor, Baron Kilclooney",spouse,Q76185640,
+Q336390,"John Alderdice, Baron Alderdice",child,Q75407492,
+Q336390,"John Alderdice, Baron Alderdice",child,Q75407493,
+Q336390,"John Alderdice, Baron Alderdice",child,Q75407495,
+Q336390,"John Alderdice, Baron Alderdice",father,Q75294044,
+Q336390,"John Alderdice, Baron Alderdice",mother,Q75294051,
+Q336390,"John Alderdice, Baron Alderdice",spouse,Q75294037,
+Q337970,Michelle Gildernew,sibling,Q31373965,
+Q428996,Pat Sheehan,spouse,Q7525311,
+Q5220520,Danny Kinahan,child,Q76245321,
+Q5220520,Danny Kinahan,child,Q76308421,
+Q5220520,Danny Kinahan,child,Q76308423,
+Q5220520,Danny Kinahan,child,Q76308424,
+Q5220520,Danny Kinahan,father,Q7352592,
+Q5220520,Danny Kinahan,mother,Q19956627,
+Q5220520,Danny Kinahan,spouse,Q76008194,
+Q5346750,Edwin Poots,father,Q5081712,
+Q5585084,Gordon Dunne,child,Q107345490,
+Q575881,Ian Paisley Jr,father,Q296597,
+Q575881,Ian Paisley Jr,mother,Q1303976,
+Q575881,Ian Paisley Jr,spouse,Q75969932,
+Q6210280,Joe Hendron,sibling,Q6195541,
+Q6848174,Mike Nesbitt,spouse,Q6708535,
