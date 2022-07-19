@@ -1,0 +1,569 @@
+{
+  "title": "John O'Dowd",
+  "pageID": 2308531,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "People from Craigavon, County Armagh",
+    "Sinn Féin MLAs",
+    "Ministers of the Northern Ireland Executive (since 1999)",
+    "Northern Ireland MLAs 2003–2007",
+    "Northern Ireland MLAs 2007–2011",
+    "Northern Ireland MLAs 2011–2016",
+    "Northern Ireland MLAs 2016–2017",
+    "Northern Ireland MLAs 2017–2022",
+    "Sinn Féin councillors in Northern Ireland",
+    "Sinn Féin parliamentary candidates",
+    "Northern Ireland MLAs 2022–2027"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Fitzgerald O'Dowd (born 10 May 1967) is an Irish Sinn Féin politician.",
+              "links": [
+                {
+                  "text": "Irish",
+                  "type": "internal",
+                  "page": "Irish people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sinn Féin"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John Fitzgerald O'Dowd"
+                ]
+              }
+            },
+            {
+              "text": "He has been the Minister for Infrastructure since 16 May 2022 and the Member of the Northern Ireland Assembly for Upper Bann since 2003.",
+              "links": [
+                {
+                  "text": "Minister for Infrastructure",
+                  "type": "internal",
+                  "page": "Department for Infrastructure (Northern Ireland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Northern Ireland Assembly"
+                },
+                {
+                  "text": "Upper Bann",
+                  "type": "internal",
+                  "page": "Upper Bann (Assembly constituency)"
+                }
+              ]
+            },
+            {
+              "text": "He was previously the Minister for Education in the Stormont Executive from 2011 to 2016.",
+              "links": [
+                {
+                  "text": "Minister for Education",
+                  "type": "internal",
+                  "page": "Department of Education (Northern Ireland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stormont Executive"
+                }
+              ]
+            },
+            {
+              "text": "He briefly took on the duties of deputy First Minister in 2011 while Martin McGuinness ran in the 2011 Irish presidential election.",
+              "links": [
+                {
+                  "text": "deputy First Minister",
+                  "type": "internal",
+                  "page": "First Minister and deputy First Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Martin McGuinness"
+                },
+                {
+                  "text": "2011 Irish presidential election",
+                  "type": "internal",
+                  "page": "2011 Irish presidential election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Irish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the 19th-century politician",
+            "John O'Dowd (Sligo MP)"
+          ],
+          "template": "for"
+        },
+        {
+          "date": "October 2013",
+          "template": "engvarb"
+        },
+        {
+          "date": "October 2013",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1967",
+          "month": "05",
+          "day": "10",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "John O'Dowd"
+          },
+          "honorific-suffix": {
+            "text": "MLA",
+            "links": [
+              {
+                "text": "MLA",
+                "type": "internal",
+                "page": "Member of the Legislative Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "John O'Dowd 2021.jpg"
+          },
+          "caption": {
+            "text": "O'Dowd in 2021"
+          },
+          "office2": {
+            "text": "Minister for Education",
+            "links": [
+              {
+                "text": "Minister for Education",
+                "type": "internal",
+                "page": "Department of Education (Northern Ireland)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "16 May 2011"
+          },
+          "term_end2": {
+            "text": "25 May 2016"
+          },
+          "predecessor2": {
+            "text": "Caitríona Ruane",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Caitríona Ruane"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Peter Weir",
+            "links": [
+              {
+                "text": "Peter Weir",
+                "type": "internal",
+                "page": "Peter Weir (politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Acting deputy First Minister of Northern Ireland",
+            "links": [
+              {
+                "text": "deputy First Minister of Northern Ireland",
+                "type": "internal",
+                "page": "deputy First Minister of Northern Ireland"
+              }
+            ]
+          },
+          "alongside3": {
+            "text": "Peter Robinson",
+            "links": [
+              {
+                "text": "Peter Robinson",
+                "type": "internal",
+                "page": "Peter Robinson (Northern Ireland politician)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "20 September 2011"
+          },
+          "term_end3": {
+            "text": "31 October 2011"
+          },
+          "predecessor3": {
+            "text": "Martin McGuinness",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin McGuinness"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Martin McGuinness"
+          },
+          "office4": {
+            "text": "Member of the Legislative Assembly\nfor Upper Bann",
+            "links": [
+              {
+                "text": "Member of the Legislative Assembly",
+                "type": "internal",
+                "page": "Member of the Legislative Assembly (Northern Ireland)"
+              },
+              {
+                "text": "Upper Bann",
+                "type": "internal",
+                "page": "Upper Bann (Assembly constituency)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "26 November 2003"
+          },
+          "predecessor4": {
+            "text": "Dara O'Hagan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dara O'Hagan"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 10, 1967"
+          },
+          "birth_place": {
+            "text": "Tullylish, Northern Ireland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tullylish"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Ireland"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "John Fitzgerald O'Dowd"
+          },
+          "nationality": {
+            "text": "Irish"
+          },
+          "party": {
+            "text": "Sinn Féin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sinn Féin"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mary O'Dowd"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "office": {
+            "text": "Minister for Infrastructure",
+            "links": [
+              {
+                "text": "Minister for Infrastructure",
+                "type": "internal",
+                "page": "Department for Infrastructure (Northern Ireland)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "16 May 2022"
+          },
+          "predecessor": {
+            "text": "Nichola Mallon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nichola Mallon"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Ferguson",
+          "first": "Amanda",
+          "date": "2022-05-13",
+          "title": "Sinn Féin’s Michelle O’Neill says everyone else turned up. The public deserves politicians working together, and a budget. Regret DUP have stopped the rest of us. John O’Dowd is new Infrastructure Minister.",
+          "url": "https://twitter.com/amandafbelfast/status/1525132801053450241",
+          "url-status": "live",
+          "access-date": "2022-05-13",
+          "website": "Twitter",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "O'Dowd was born in 1967 in Tullylish, a rural community between Lurgan and Banbridge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tullylish"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lurgan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Banbridge"
+                }
+              ]
+            },
+            {
+              "text": "He had trained as a chef before engaging in politics."
+            },
+            {
+              "text": "He began his political career serving for 14 years as a councillor on Craigavon Borough Council and previously served as a school governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Craigavon Borough Council"
+                }
+              ]
+            },
+            {
+              "text": "O'Dowd has served as Chair of Upper Bann Sinn Féin and a member of the party's Six County Executive, O'Dowd was leader of the Sinn Féin group on Craigavon Council."
+            },
+            {
+              "text": "In 2003 he was elected as MLA for Upper Bann and in 2005 unsuccessfully contested the same-named Westminster constituency.",
+              "links": [
+                {
+                  "text": "MLA",
+                  "type": "internal",
+                  "page": "Member of the Legislative Assembly (Northern Ireland)"
+                },
+                {
+                  "text": "Upper Bann",
+                  "type": "internal",
+                  "page": "Upper Bann (Assembly constituency)"
+                }
+              ]
+            },
+            {
+              "text": "Between 2007 and 2011 he was Sinn Féin group leader in the Assembly and served as Chair of the Public Accounts Committee before becoming a member of the Education Committee in 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sinn Féin"
+                },
+                {
+                  "text": "Assembly",
+                  "type": "internal",
+                  "page": "Northern Ireland Assembly"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On the 13 May 2022, he was confirmed as the 'caretaker' Infrastructure Minister replacing Nichola Mallon of the SDLP who failed to retain her seat in the previous weeks election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nichola Mallon"
+                }
+              ]
+            },
+            {
+              "text": "He took office on 16 May 2022."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "McCormack",
+          "first1": "Jayne",
+          "title": "Sinn Féin's John O'Dowd made NI infrastructure minister",
+          "url": "https://www.bbc.com/news/uk-northern-ireland-61457608",
+          "website": "BBC News",
+          "access-date": "17 May 2022",
+          "date": "16 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Minister for Education",
+          "url": "http://www.deni.gov.uk/index/about-the-department/department-of-education/41-about-the-department-structure-and-functions-education-minister-pg.htm",
+          "publisher": "Department for Education, Northern Ireland",
+          "access-date": "22 May 2013",
+          "archive-date": "18 October 2013",
+          "archive-url": "https://web.archive.org/web/20131018012246/http://www.deni.gov.uk/index/about-the-department/department-of-education/41-about-the-department-structure-and-functions-education-minister-pg.htm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Remarkable year for new deputy first minister John O'Dowd",
+          "url": "https://www.bbc.co.uk/news/uk-northern-ireland-15005642",
+          "publisher": "BBC",
+          "access-date": "22 June 2018",
+          "archive-date": "20 March 2017",
+          "archive-url": "https://web.archive.org/web/20170320053012/http://www.bbc.co.uk/news/uk-northern-ireland-15005642",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sinnfein.ie/contents/14979",
+          "title": "Upper Bann – John O'Dowd &#124; Sinn Féin",
+          "publisher": "Sinn Féin",
+          "access-date": "24 May 2010",
+          "archive-date": "4 May 2010",
+          "archive-url": "https://web.archive.org/web/20100504103115/http://www.sinnfein.ie/contents/14979",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Acting deputy First Minister",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After Sinn Féin nominated Martin McGuinness as its candidate in the 2011 Irish presidential election, O'Dowd took over the duties of deputy First Minister on a temporary basis from 20 September to 31 October 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sinn Féin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Martin McGuinness"
+                },
+                {
+                  "text": "2011 Irish presidential election",
+                  "type": "internal",
+                  "page": "2011 Irish presidential election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "John O'Dowd",
+          "url": "http://www.u.tv/News/ODowd-ready-for-acting-DFM-role/ded64073-b40a-4cd2-91e5-f923e841e8ee",
+          "title": "UTV News – O'Dowd ready for acting DFM role",
+          "publisher": "UTV",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120930222634/http://www.u.tv/News/ODowd-ready-for-acting-DFM-role/ded64073-b40a-4cd2-91e5-f923e841e8ee",
+          "archive-date": "30 September 2012",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "O'Dowd is married and has three children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "ni/ass"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Dara O'Hagan",
+          "template": "s-bef"
+        },
+        {
+          "title": "MLA for Upper Bann",
+          "years": "2003–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "title": "Minister of Education",
+          "before": "Caitríona Ruane",
+          "after": "Peter Weir",
+          "years": "2011–2016",
+          "template": "succession box"
+        },
+        {
+          "title": "Acting deputy First Minister of Northern Ireland",
+          "years": "2011",
+          "before": "Martin McGuinness",
+          "after": "Martin McGuinness",
+          "template": "succession box"
+        },
+        {
+          "template": "sinn féin"
+        }
+      ]
+    }
+  ]
+}
